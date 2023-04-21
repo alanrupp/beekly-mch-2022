@@ -1,0 +1,8 @@
+name: MCH
+channels:
+  - conda-forge
+  - bioconda
+  - r
+dependencies:
+  - r-seurat==4.1.0
+  - r-metap==1.1
